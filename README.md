@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" src=".github/devradar.svg" width="250px" />
+    <img src="https://i.imgur.com/POVtFk8.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -22,19 +22,19 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ### Backend
 
-1. ***`cd backend`***
-2. ***`yarn`*** para instalar dependencias
-3. ***`cd src`***
-4. ***`nodemon`*** para iniciar servidor
+1. `cd backend`
+2. `yarn` para instalar dependencias
+3. `cd src`
+4. `nodemon` para iniciar servidor
 
 ### Web
 
-1. ***`cd web`***
-2. ***`yarn`*** para instalar dependencias
-3. ***`yarn start`*** para iniciar
+1. `cd web`
+2. `yarn` para instalar dependencias
+3. `yarn start` para iniciar
 
 ### Mobile
 
-1. ***`cd mobile`***
-2. ***`yarn`*** para instalar dependencias
-3. ***`yarn start`*** para iniciar
+1. `cd mobile`
+2. `yarn` para instalar dependencias
+3. `yarn start` para iniciar
