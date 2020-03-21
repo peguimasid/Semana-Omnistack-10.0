@@ -6,6 +6,12 @@
   🚀 Semana OmniStack 10.0
 </h4>
 
+<br>
+
+<p align="center">
+  <img alt="Frontend" src="./assets/image.png" width="60%">
+</p>
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
